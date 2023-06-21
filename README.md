@@ -5,6 +5,7 @@ Welcome to LostAndFound, a web application designed to help people find their lo
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- - [Team](#team)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -18,6 +19,15 @@ LostAndFound is a platform that connects people who have lost their belongings w
 - **Search Found Items:** Users can search for items that have been found by others based on various criteria like category, location, or date.
 - **Contact Owners:** Once a lost item is found, users can directly contact the owner to arrange for its return.
 - **Responsive Design:** The website is optimized for different screen sizes and devices, ensuring a seamless experience for users on desktop and mobile.
+
+
+## Team
+
+Meet the passionate individuals behind LostAndFound:
+
+- **Mohammad Kashif:** Web Developer _(Me) 🤩_
+- **Amna Saleem:** CHIEF EXECUTIVE OFFICER (CEO)
+- **Sidra Khan:** CHIEF FINANCIAL OFFICER (CFO)
 
 ## Getting Started
 To run the LostAndFound website locally, follow these steps:
