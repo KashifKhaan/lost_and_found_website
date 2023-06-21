@@ -5,7 +5,7 @@ Welcome to LostAndFound, a web application designed to help people find their lo
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- - [Team](#team)
+- [Team](#team)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
