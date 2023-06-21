@@ -44,6 +44,32 @@ Contributions are welcome! If you'd like to contribute to LostAndFound, please f
 
 Please ensure that your contributions adhere to the [code of conduct](CODE_OF_CONDUCT.md).
 
+
+## Acknowledgments
+
+The LostAndFound project was developed using components of Nice-Pages. Special thanks to the Nice-Page community for providing the necessary tools and resources for building the Web Applications.
+
+
 ## License
 The LostAndFound project is licensed under the [MIT License](LICENSE.md). Feel free to modify and use the code for your own purposes.
+
+
+
+## 🔗 Contact
+If you have any questions, suggestions, or feedback, please feel free to reach out to us:
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dribbble.com/Kashif420)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-kashif-442146214/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KaxhifKhan)
+
+Email: mrkashi2020@gmail.com
+
+## Used By
+
+*This project is used by the University Of Swabi Deptt Of Computer Science*
+
+
+`We appreciate your support and hope you enjoy using Lost-And-Found`
 
