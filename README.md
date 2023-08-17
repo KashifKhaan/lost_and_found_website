@@ -25,7 +25,7 @@ LostAndFound is a platform that connects people who have lost their belongings w
 
 Meet the passionate individuals behind LostAndFound:
 
-- **Mohammad Kashif:** Web Developer _(Me) 🤩_
+- **Mohammad Kashif:** Web Developer _(Me)_ 🤩
 - **Amna Saleem:** CHIEF EXECUTIVE OFFICER (CEO)
 - **Sidra Khan:** CHIEF FINANCIAL OFFICER (CFO)
 
